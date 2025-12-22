@@ -1,0 +1,74 @@
+[
+  {
+    "ip": "8.8.8.8",
+    "info": {
+      "ip": "8.8.8.8",
+      "country": "United States",
+      "country_code": "US",
+      "region": "Virginia",
+      "city": "Ashburn",
+      "zip": "20149",
+      "latitude": 39.03,
+      "longitude": -77.5,
+      "timezone": "America/New_York",
+      "isp": "Google LLC",
+      "org": "Google Public DNS",
+      "as": "AS15169 Google LLC"
+    },
+    "threat": "LOW"
+  },
+  {
+    "ip": "1.1.1.1",
+    "info": {
+      "ip": "1.1.1.1",
+      "country": "Hong Kong",
+      "country_code": "HK",
+      "region": "Central and Western District",
+      "city": "Hong Kong",
+      "zip": "",
+      "latitude": 22.3193,
+      "longitude": 114.1693,
+      "timezone": "Asia/Hong_Kong",
+      "isp": "Cloudflare, Inc",
+      "org": "APNIC and Cloudflare DNS Resolver project",
+      "as": "AS13335 Cloudflare, Inc."
+    },
+    "threat": "MEDIUM"
+  },
+  {
+    "ip": "45.142.120.10",
+    "info": {
+      "ip": "45.142.120.10",
+      "country": "Bulgaria",
+      "country_code": "BG",
+      "region": "Blagoevgrad",
+      "city": "Sandanski",
+      "zip": "2800",
+      "latitude": 41.5678,
+      "longitude": 23.2804,
+      "timezone": "Europe/Sofia",
+      "isp": "Cloudflare London, LLC",
+      "org": "\"It Saport\" Ltd",
+      "as": "AS209242 Cloudflare London, LLC"
+    },
+    "threat": "MEDIUM"
+  },
+  {
+    "ip": "185.220.101.1",
+    "info": {
+      "ip": "185.220.101.1",
+      "country": "Germany",
+      "country_code": "DE",
+      "region": "Brandenburg",
+      "city": "Brandenburg",
+      "zip": "14621",
+      "latitude": 52.6171,
+      "longitude": 13.1207,
+      "timezone": "Europe/Berlin",
+      "isp": "Stiftung Erneuerbare Freiheit",
+      "org": "Artikel10 e.V",
+      "as": "AS60729 Stiftung Erneuerbare Freiheit"
+    },
+    "threat": "LOW"
+  }
+]
