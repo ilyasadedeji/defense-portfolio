@@ -1,0 +1,126 @@
+{
+  "generated_at": "2025-12-31 07:41:50",
+  "analysis": {
+    "total_incidents": 155,
+    "hotspot_states": {
+      "FCT": 16,
+      "Niger": 7,
+      "Adamawa": 12,
+      "Plateau": 5,
+      "Kebbi": 19,
+      "Taraba": 11,
+      "Benue": 16,
+      "Yobe": 11,
+      "Borno": 13,
+      "Nasarawa": 13,
+      "Kano": 12,
+      "Sokoto": 10,
+      "Kaduna": 3,
+      "Zamfara": 6,
+      "Katsina": 1
+    },
+    "hotspot_lgas": {
+      "Unknown LGA": 133,
+      "Mashegu": 2,
+      "Jos South": 1,
+      "Mangu": 2,
+      "Igabi": 2,
+      "Anka": 1,
+      "Shiroro": 3,
+      "Tsafe": 2,
+      "Maru": 1,
+      "Mariga": 1,
+      "Dandume": 1,
+      "Riyom": 2,
+      "Chikun": 1,
+      "Gusau": 2,
+      "Munya": 1
+    },
+    "time_patterns": {
+      "Evening (6PM-12AM)": 33,
+      "Afternoon (12PM-6PM)": 35,
+      "Night (12AM-6AM)": 48,
+      "Morning (6AM-12PM)": 39
+    },
+    "day_patterns": {
+      "Wednesday": 18,
+      "Monday": 12,
+      "Tuesday": 39,
+      "Saturday": 19,
+      "Thursday": 25,
+      "Sunday": 24,
+      "Friday": 18
+    },
+    "crime_types": {
+      "Kidnapping": 32,
+      "Terrorism": 33,
+      "Cattle Rustling": 26,
+      "Armed Robbery": 24,
+      "Banditry": 18,
+      "Communal Clash": 22
+    },
+    "trends": {}
+  },
+  "predictions": [
+    {
+      "location": "Unknown LGA, Kebbi",
+      "risk_score": 39.94,
+      "historical_incidents": 133,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Shiroro, Kebbi",
+      "risk_score": 14.77,
+      "historical_incidents": 3,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Mashegu, Kebbi",
+      "risk_score": 14.58,
+      "historical_incidents": 2,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Mangu, Kebbi",
+      "risk_score": 14.58,
+      "historical_incidents": 2,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Igabi, Kebbi",
+      "risk_score": 14.58,
+      "historical_incidents": 2,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Tsafe, Kebbi",
+      "risk_score": 14.58,
+      "historical_incidents": 2,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Riyom, Kebbi",
+      "risk_score": 14.58,
+      "historical_incidents": 2,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Gusau, Kebbi",
+      "risk_score": 14.58,
+      "historical_incidents": 2,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Jos South, Kebbi",
+      "risk_score": 14.39,
+      "historical_incidents": 1,
+      "high_risk_time": "Night (12AM-6AM)"
+    },
+    {
+      "location": "Anka, Kebbi",
+      "risk_score": 14.39,
+      "historical_incidents": 1,
+      "high_risk_time": "Night (12AM-6AM)"
+    }
+  ]
+}
